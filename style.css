@@ -10,7 +10,7 @@ div {
   background-color: white;
   width: 700px;
   padding: 30px;
-  font-family: "Helvatica Neue";
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* ID selector to select the element with id 'main-header' */
